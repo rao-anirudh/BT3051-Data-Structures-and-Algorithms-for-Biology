@@ -4,7 +4,7 @@ This repository contains all code related to the course BT3051 (Data Structures 
 | Assignment  | Topics | Files |
 | ------------- | ------------- |------------- |
 | 1  | Basic Python  | [Assignment 1.ipynb](Assignment%201.ipynb) |
-| 2  | Advanced Python  | Content Cell |
-| 3  | Stacks, Queues, Dynamic Programming  | Content Cell |
-| 4  | Graph Algorithms  | Content Cell |
-| 5  | Regular Expressions, Random Numbers  | Content Cell |
+| 2  | Advanced Python  | [diet_planner.py](diet_planner.py), [diet_planner_with_repeats.py](diet_planner_with_repeats.py), [primer_design.py](primer_design.py), [dna.fasta](dna.fasta), [palindrome_6.py](palindrome_6.py), [palindrome_any.py](palindrome_any.py) |
+| 3  | Stacks, Queues, Dynamic Programming  | [magic_stairs.py](magic_stairs.py), [forming_groups.py](forming_groups.py), [array_product.py](array_product.py), [infix_to_postfix.py](infix_to_postfix.py), [students_and_sandwiches.py](students_and_sandwiches.py), [agent_vega.py](agent_vega.py) |
+| 4  | Graph Algorithms  | [Assignment 4.ipynb](Assignment%204.ipynb) |
+| 5  | Regular Expressions, Random Numbers  | [ellipse_area.py](ellipse_area.py), [birthday_problem.py](birthday_problem.py), [monte_carlo_integration.py](monte_carlo_integration.py), [words.txt](words.txt), [regex_words.py](regex_words.py), [regex_time.py](regex_time.py), [regex_lottery.py](regex_lottery.py), [modified_Data.txt](modified_Data.txt)|
